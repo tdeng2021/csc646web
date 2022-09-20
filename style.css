@@ -1,0 +1,25 @@
+body {
+    background-color:antiquewhite;
+    color: #1c95cc;
+    font-family: "Fjalla One", Arial;
+  }
+  
+
+  
+  h1 {
+    color:rgb(17, 100, 189);
+    font-size: 3em;
+    overflow: break;
+    text-align: center;
+  }
+
+  h2{
+    color:rgb(5, 46, 139);
+  }
+
+  footer{
+    color:black
+  }
+  
+
+  
